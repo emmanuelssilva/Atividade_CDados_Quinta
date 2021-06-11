@@ -4,6 +4,7 @@
 
 1. Emmanuel Roberto Castro da Silva
 2. Alisson Silva Camargo
+3. Fabio Silva de Arruda
 
 **Curso**: Ciências da Computação - **Professor**: [Dr. José Eduardo Storopoli](https://storopoli.io);
 
