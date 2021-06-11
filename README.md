@@ -21,6 +21,8 @@
 
 Dados realizado com base no episódio The Rams Are Dead To Me(Os Rams morreram pra mim).
 
+Após 21 anos na cidade de St. Louis, os Rams se mudaram para cidade de Los Angeles, causando uma grande decepção para os torcedores da cidade do Missouri.
+
 Fonte:
 (https://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/)
 
