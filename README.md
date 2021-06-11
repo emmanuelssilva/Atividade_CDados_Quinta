@@ -21,8 +21,7 @@
 
 Dados realizado com base no episódio The Rams Are Dead To Me(Os Rams morreram pra mim).
 
-
-
-
 Fonte:
 (https://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/)
+
+![gettyimages-459334030](https://user-images.githubusercontent.com/43474592/121640457-536b1880-ca64-11eb-9d48-5f6640851845.jpg)
